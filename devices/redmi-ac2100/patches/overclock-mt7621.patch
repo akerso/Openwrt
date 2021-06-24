@@ -1,5 +1,5 @@
---- a/target/linux/ramips/patches-5.4/102-mt7621-fix-cpu-clk-add-clkdev.patch
-+++ b/target/linux/ramips/patches-5.4/102-mt7621-fix-cpu-clk-add-clkdev.patch
+--- a/target/linux/ramips/patches-5.10/102-mt7621-fix-cpu-clk-add-clkdev.patch
++++ b/target/linux/ramips/patches-5.10/102-mt7621-fix-cpu-clk-add-clkdev.patch
 @@ -65,7 +65,7 @@
   #define MT7621_GPIO_MODE_UART1		1
   #define MT7621_GPIO_MODE_I2C		2
